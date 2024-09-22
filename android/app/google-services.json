@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "449922112184",
+    "firebase_url": "https://find-my-ride-279d6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "find-my-ride-279d6",
+    "storage_bucket": "find-my-ride-279d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449922112184:android:233eb5900be9753ec7b24d",
+        "android_client_info": {
+          "package_name": "com.example.findmyvehical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449922112184-goppoh6n4tnf2ik4rc7h440dg66mcs8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNDrAjymzw4F5gEfwlXMCSZAzQYqc3SK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449922112184-goppoh6n4tnf2ik4rc7h440dg66mcs8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
